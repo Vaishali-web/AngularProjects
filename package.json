@@ -22,7 +22,7 @@
     "@angular/platform-browser-dynamic": "~8.1.0",
     "@angular/router": "~8.1.0",
     "angular-font-awesome": "^3.1.2",
-    "bootstrap": "^3.3.4",
+    "bootstrap": "^3.4.1",
     "datatables.net": "^1.10.19",
     "datatables.net-bs4": "^1.10.19",
     "font-awesome": "^4.7.0",
