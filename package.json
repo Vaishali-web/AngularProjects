@@ -27,7 +27,7 @@
     "datatables.net-bs4": "^1.10.19",
     "font-awesome": "^4.7.0",
     "jquery": "^3.4.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "ngx-cookie-service": "^2.2.0",
     "rxjs": "~6.4.0",
     "tsd": "^0.7.4",
